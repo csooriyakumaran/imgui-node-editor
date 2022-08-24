@@ -1,4 +1,4 @@
-project "ImNode"
+project "imnode"
        kind "StaticLib"
        language "C++"
        staticruntime "off"
